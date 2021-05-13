@@ -2,10 +2,8 @@ package goahocorasick
 
 import (
 	"fmt"
-)
 
-import (
-	"github.com/anknown/darts"
+	godarts "github.com/anknown/darts"
 )
 
 const FAIL_STATE = -1
